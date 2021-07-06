@@ -1,0 +1,757 @@
+[
+    {
+        "id": 506841,
+        "title": "Beef Empanadas",
+        "readyInMinutes": 115,
+        "servings": 15,
+        "sourceUrl": "http://thewanderlustkitchen.com/2013/12/06/beef-empanadas/",
+        "openLicense": 0,
+        "image": "Beef-Empanadas-506841.jpg"
+    },
+    {
+        "id": 590696,
+        "title": "Beef Satay",
+        "readyInMinutes": 130,
+        "servings": 8,
+        "sourceUrl": "http://www.garnishwithlemon.com/beef-satay-with-thai-peanut-dipping-sauce/",
+        "openLicense": 0,
+        "image": "Beef-Satay-590696.jpg"
+    },
+    {
+        "id": 821490,
+        "title": "Beef Stroganoff",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.emilybites.com/2016/09/beef-stroganoff.html",
+        "openLicense": 0,
+        "image": "beef-stroganoff-821490.jpg"
+    },
+    {
+        "id": 1037168,
+        "title": "Beef and Broccoli",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "sourceUrl": "https://dinnerthendessert.com/beef-and-broccoli/",
+        "openLicense": 0,
+        "image": "beef-and-broccoli-1037168.jpg"
+    },
+    {
+        "id": 1075162,
+        "title": "Beef Ragu",
+        "readyInMinutes": 210,
+        "servings": 8,
+        "sourceUrl": "https://www.jocooks.com/recipes/braised-beef-ragu-fettuccine/",
+        "openLicense": 0,
+        "image": "beef-ragu-1075162.jpg"
+    },
+    {
+        "id": 1138868,
+        "title": "Beef Bourguignon",
+        "readyInMinutes": 255,
+        "servings": 10,
+        "sourceUrl": "https://www.afamilyfeast.com/beef-bourguignon/",
+        "openLicense": 0,
+        "image": "beef-bourguignon-1138868.jpg"
+    },
+    {
+        "id": 1473269,
+        "title": "Broccoli Beef",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "sourceUrl": "https://www.skinnytaste.com/broccoli-beef/",
+        "openLicense": 0,
+        "image": "broccoli-beef-1473269.jpg"
+    },
+    {
+        "id": 37032,
+        "title": "Orange Beef Pasta",
+        "readyInMinutes": 20,
+        "servings": 6,
+        "sourceUrl": "http://www.myrecipes.com/recipe/orange-beef-pasta-10000001831953/",
+        "openLicense": 0,
+        "image": "orange-beef-pasta-37032.jpg"
+    },
+    {
+        "id": 44658,
+        "title": "Scottish Beef Stew",
+        "readyInMinutes": 150,
+        "servings": 4,
+        "sourceUrl": "http://www.foodandwine.com/recipes/scottish-beef-stew",
+        "openLicense": 0,
+        "image": "scottish-beef-stew-44658.jpg"
+    },
+    {
+        "id": 81325,
+        "title": "Beef Stew With Noodles",
+        "readyInMinutes": 60,
+        "servings": 4,
+        "sourceUrl": "http://www.marthastewart.com/343646/beef-stew-with-noodles",
+        "openLicense": 0,
+        "image": "beef-stew-with-noodles-2-81325.jpg"
+    },
+    {
+        "id": 91910,
+        "title": "Steamed Beef Dumplings",
+        "readyInMinutes": 36,
+        "servings": 6,
+        "sourceUrl": "http://www.food.com/recipe/steamed-beef-dumplings-420458",
+        "openLicense": 0,
+        "image": "steamed-beef-dumplings-2-91910.jpg"
+    },
+    {
+        "id": 98240,
+        "title": "Beef-and-Asparagus Bundles",
+        "readyInMinutes": 22,
+        "servings": 20,
+        "sourceUrl": "http://www.myrecipes.com/recipe/beef-and-asparagus-bundles-10000001673185/",
+        "openLicense": 0,
+        "image": "beef-and-asparagus-bundles-98240.jpg"
+    },
+    {
+        "id": 99047,
+        "title": "Beef Nachos Supreme",
+        "readyInMinutes": 25,
+        "servings": 2,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/beef-nachos-supreme",
+        "openLicense": 0,
+        "image": "beef-nachos-supreme-recipe-2-99047.png"
+    },
+    {
+        "id": 99322,
+        "title": "Korean Barbecued Beef",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.marthastewart.com/353207/korean-barbecued-beef",
+        "openLicense": 0,
+        "image": "korean-barbecued-beef-2-99322.png"
+    },
+    {
+        "id": 109601,
+        "title": "Beef with Ramen Noodles",
+        "readyInMinutes": 25,
+        "servings": 2,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/beef-with-ramen-noodles",
+        "openLicense": 0,
+        "image": "beef-with-ramen-noodles-2-109601.png"
+    },
+    {
+        "id": 119363,
+        "title": "Beef Curry Pillows",
+        "readyInMinutes": 50,
+        "servings": 18,
+        "sourceUrl": "http://www.food.com/recipe/beef-curry-pillows-211520",
+        "openLicense": 0,
+        "image": "beef-curry-pillows-2-119363.jpg"
+    },
+    {
+        "id": 134143,
+        "title": "Spicy Beef Samosas",
+        "readyInMinutes": 82,
+        "servings": 16,
+        "sourceUrl": "http://www.food.com/recipe/spicy-beef-samosas-256086",
+        "openLicense": 0,
+        "image": "spicy-beef-samosas-2-134143.jpg"
+    },
+    {
+        "id": 145948,
+        "title": "Pierogi Beef Skillet",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "sourceUrl": "http://www.food.com/recipe/pierogi-beef-skillet-356586",
+        "openLicense": 0,
+        "image": "pierogi-beef-skillet-2-145948.jpg"
+    },
+    {
+        "id": 146633,
+        "title": "Beef Bolognese - Delish!",
+        "readyInMinutes": 65,
+        "servings": 8,
+        "sourceUrl": "http://www.food.com/recipe/beef-bolognese-delish-456443",
+        "openLicense": 0,
+        "image": "beef-bolognese-delish-2-146633.jpg"
+    },
+    {
+        "id": 160544,
+        "title": "Thai Beef Salad",
+        "readyInMinutes": 15,
+        "servings": 4,
+        "sourceUrl": "http://www.BettyCrocker.com/recipes/thai-beef-salad/64391b6e-28e3-4e9d-a08b-327697d07216",
+        "openLicense": 0,
+        "image": "thai-beef-salad-160544.jpg"
+    },
+    {
+        "id": 173721,
+        "title": "Beef Banh Mi Bites",
+        "readyInMinutes": 75,
+        "servings": 24,
+        "sourceUrl": "https://www.bettycrocker.com/recipes/beef-banh-mi-bites/b8a7a00c-21e1-4eb4-a3d8-854a374f2c06",
+        "openLicense": 0,
+        "image": "Beef-Banh-Mi-Bites-173721.jpg"
+    },
+    {
+        "id": 170716,
+        "title": "Corned Beef Quesadillas",
+        "readyInMinutes": 15,
+        "servings": 4,
+        "sourceUrl": "https://www.bettycrocker.com/recipes/corned-beef-quesadillas/75bc8917-fef6-46a8-bd23-000e4aeb7323",
+        "openLicense": 0,
+        "image": "Corned-Beef-Quesadillas-170716.jpg"
+    },
+    {
+        "id": 190208,
+        "title": "Beef and Wild Mushrooms",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://www.epicurious.com/recipes/food/views/Beef-and-Wild-Mushrooms-51144030",
+        "openLicense": 0,
+        "image": "Beef-and-Wild-Mushrooms-190208.jpg"
+    },
+    {
+        "id": 197790,
+        "title": "Beef and Mushroom Stroganoff",
+        "readyInMinutes": 29,
+        "servings": 4,
+        "sourceUrl": "http://www.myrecipes.com/recipe/beef-mushroom-stroganoff-50400000126810/",
+        "openLicense": 0,
+        "image": "beef-and-mushroom-stroganoff-197790.jpg"
+    },
+    {
+        "id": 208358,
+        "title": "Thai Beef Salad",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.myrecipes.com/m/recipe/thai-beef-salad-10000000549762/",
+        "openLicense": 0,
+        "image": "thai-beef-salad-208358.jpg"
+    },
+    {
+        "id": 247602,
+        "title": "Beef Kofta Curry",
+        "readyInMinutes": 60,
+        "servings": 6,
+        "sourceUrl": "http://www.whatsforlunchhoney.net/2013/01/BeefKoftaCurry.html",
+        "openLicense": 0,
+        "image": "Beef-Kofta-Curry-247602.jpg"
+    },
+    {
+        "id": 392970,
+        "title": "Winter Beef Stew",
+        "readyInMinutes": 190,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/winter-beef-stew",
+        "openLicense": 0,
+        "image": "Winter-Beef-Stew-392970.jpg"
+    },
+    {
+        "id": 408282,
+        "title": "Beef Barley Soup",
+        "readyInMinutes": 45,
+        "servings": 14,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/beef-barley-soup-2",
+        "openLicense": 0,
+        "image": "Beef-Barley-Soup-408282.jpg"
+    },
+    {
+        "id": 257730,
+        "title": "Roast Beef Tenderloin",
+        "readyInMinutes": 27,
+        "servings": 4,
+        "sourceUrl": "http://www.myrecipes.com/recipe/roast-beef-tenderloin-10000001133785/",
+        "openLicense": 0,
+        "image": "roast-beef-tenderloin-257730.jpg"
+    },
+    {
+        "id": 298406,
+        "title": "Beef Short Ribs",
+        "readyInMinutes": 1670,
+        "servings": 4,
+        "sourceUrl": "http://www.foodnetwork.com/recipes/beef-short-ribs-recipe2.html",
+        "openLicense": 0,
+        "image": "beef-short-ribs-298406.jpeg"
+    },
+    {
+        "id": 366247,
+        "title": "Asian Beef with Noodles",
+        "readyInMinutes": 25,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/asian-beef-with-noodles",
+        "openLicense": 0,
+        "image": "Asian-Beef-with-Noodles-366247.jpg"
+    },
+    {
+        "id": 385176,
+        "title": "Ground Beef 'n' Biscuits",
+        "readyInMinutes": 40,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/ground-beef--n--biscuits",
+        "openLicense": 0,
+        "image": "Ground-Beef-n-Biscuits-385176.jpg"
+    },
+    {
+        "id": 415192,
+        "title": "Hearty Beef Stroganoff",
+        "readyInMinutes": 30,
+        "servings": 5,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/hearty-beef-stroganoff",
+        "openLicense": 0,
+        "image": "Hearty-Beef-Stroganoff-415192.jpg"
+    },
+    {
+        "id": 382202,
+        "title": "Chinese Beef Casserole",
+        "readyInMinutes": 60,
+        "servings": 8,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/chinese-beef-casserole",
+        "openLicense": 0,
+        "image": "Chinese-Beef-Casserole-382202.jpg"
+    },
+    {
+        "id": 392253,
+        "title": "Southwestern Beef Stew",
+        "readyInMinutes": 525,
+        "servings": 7,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/southwestern-beef-stew",
+        "openLicense": 0,
+        "image": "Southwestern-Beef-Stew-392253.jpg"
+    },
+    {
+        "id": 395196,
+        "title": "Vegetable Beef Soup",
+        "readyInMinutes": 160,
+        "servings": 20,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/vegetable-beef-soup",
+        "openLicense": 0,
+        "image": "Vegetable-Beef-Soup-395196.jpg"
+    },
+    {
+        "id": 397743,
+        "title": "Mushroom Beef Stroganoff",
+        "readyInMinutes": 30,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/mushroom-beef-stroganoff",
+        "openLicense": 0,
+        "image": "Mushroom-Beef-Stroganoff-397743.jpg"
+    },
+    {
+        "id": 405568,
+        "title": "Teriyaki Beef Kabobs",
+        "readyInMinutes": 30,
+        "servings": 8,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/teriyaki-beef-kabobs",
+        "openLicense": 0,
+        "image": "Teriyaki-Beef-Kabobs-405568.jpg"
+    },
+    {
+        "id": 409152,
+        "title": "Shredded Beef Nachos",
+        "readyInMinutes": 15,
+        "servings": 8,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/shredded-beef-nachos",
+        "openLicense": 0,
+        "image": "Shredded-Beef-Nachos-409152.jpg"
+    },
+    {
+        "id": 415726,
+        "title": "Veggie Beef Patties",
+        "readyInMinutes": 25,
+        "servings": 4,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/veggie-beef-patties",
+        "openLicense": 0,
+        "image": "Veggie-Beef-Patties-415726.jpg"
+    },
+    {
+        "id": 430321,
+        "title": "Zippy Beef Fajitas",
+        "readyInMinutes": 380,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/zippy-beef-fajitas",
+        "openLicense": 0,
+        "image": "Zippy-Beef-Fajitas-430321.jpg"
+    },
+    {
+        "id": 432015,
+        "title": "Easy Beef Stroganoff",
+        "readyInMinutes": 30,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/easy-beef-stroganoff",
+        "openLicense": 0,
+        "image": "Easy-Beef-Stroganoff-432015.jpg"
+    },
+    {
+        "id": 431404,
+        "title": "Stovetop Beef 'n' Shells",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/stovetop-beef--n--shells",
+        "openLicense": 0,
+        "image": "Stovetop-Beef-n-Shells-431404.jpg"
+    },
+    {
+        "id": 431481,
+        "title": "BBQ Beef Sandwiches",
+        "readyInMinutes": 495,
+        "servings": 14,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/bbq-beef-sandwiches",
+        "openLicense": 0,
+        "image": "BBQ-Beef-Sandwiches-431481.jpg"
+    },
+    {
+        "id": 431877,
+        "title": "Beef Sandwiches Au Jus",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/beef-sandwiches-au-jus",
+        "openLicense": 0,
+        "image": "Beef-Sandwiches-Au-Jus-431877.jpg"
+    },
+    {
+        "id": 434302,
+        "title": "Broccoli Beef Pie",
+        "readyInMinutes": 60,
+        "servings": 8,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/broccoli-beef-pie",
+        "openLicense": 0,
+        "image": "Broccoli-Beef-Pie-434302.jpg"
+    },
+    {
+        "id": 436529,
+        "title": "Breaded Beef Tenderloin",
+        "readyInMinutes": 50,
+        "servings": 10,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/breaded-beef-tenderloin",
+        "openLicense": 0,
+        "image": "Breaded-Beef-Tenderloin-436529.jpg"
+    },
+    {
+        "id": 436742,
+        "title": "Philadelphia Beef Sandwich",
+        "readyInMinutes": 20,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/philadelphia-beef-sandwich",
+        "openLicense": 0,
+        "image": "Philadelphia-Beef-Sandwich-436742.jpg"
+    },
+    {
+        "id": 438192,
+        "title": "Tangy Beef Chili",
+        "readyInMinutes": 50,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/tangy-beef-chili",
+        "openLicense": 0,
+        "image": "Tangy-Beef-Chili-438192.jpg"
+    },
+    {
+        "id": 445924,
+        "title": "Southwestern Beef Brisket",
+        "readyInMinutes": 195,
+        "servings": 12,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/southwestern-beef-brisket",
+        "openLicense": 0,
+        "image": "Southwestern-Beef-Brisket-445924.jpg"
+    },
+    {
+        "id": 462274,
+        "title": "Beef and Mushroom Potpies",
+        "readyInMinutes": 60,
+        "servings": 4,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/beef-and-mushroom-potpies",
+        "openLicense": 0,
+        "image": "Beef-and-Mushroom-Potpies-462274.jpg"
+    },
+    {
+        "id": 462320,
+        "title": "Potato Beef Lasagna",
+        "readyInMinutes": 90,
+        "servings": 8,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/potato-beef-lasagna",
+        "openLicense": 0,
+        "image": "Potato-Beef-Lasagna-462320.jpg"
+    },
+    {
+        "id": 463861,
+        "title": "Vegetable Beef Skillet",
+        "readyInMinutes": 30,
+        "servings": 6,
+        "sourceUrl": "http://www.tasteofhome.com/recipes/vegetable-beef-skillet",
+        "openLicense": 0,
+        "image": "Vegetable-Beef-Skillet-463861.jpg"
+    },
+    {
+        "id": 475955,
+        "title": "Beef Enchilada Dip",
+        "readyInMinutes": 13,
+        "servings": 8,
+        "sourceUrl": "http://addapinch.com/cooking/2013/10/09/beef-enchilada-dip-recipe/",
+        "openLicense": 0,
+        "image": "Beef-Enchilada-Dip-475955.jpg"
+    },
+    {
+        "id": 485228,
+        "title": "Beef Stir Fry",
+        "readyInMinutes": 40,
+        "servings": 8,
+        "sourceUrl": "http://www.olgasflavorfactory.com/main-course/beef-stir-fry/",
+        "openLicense": 0,
+        "image": "Beef-Stir-Fry-485228.jpg"
+    },
+    {
+        "id": 507985,
+        "title": "Chinese Beef and Broccoli",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.browneyedbaker.com/2013/06/05/chinese-beef-and-broccoli-recipe/",
+        "openLicense": 0,
+        "image": "Chinese-Beef-and-Broccoli-507985.jpg"
+    },
+    {
+        "id": 526332,
+        "title": "Beef Mince Congee",
+        "readyInMinutes": 110,
+        "servings": 3,
+        "sourceUrl": "http://en.christinesrecipes.com/2012/01/beef-mince-congee-beef-rice-porridge.html",
+        "openLicense": 0,
+        "image": "Beef-Mince-Congee-526332.jpg"
+    },
+    {
+        "id": 535850,
+        "title": "Korean Beef Bowl",
+        "readyInMinutes": 15,
+        "servings": 4,
+        "sourceUrl": "http://damndelicious.net/2013/07/07/korean-beef-bowl/",
+        "openLicense": 0,
+        "image": "Korean-Beef-Bowl-535850.jpg"
+    },
+    {
+        "id": 543872,
+        "title": "Italian Beef Stew",
+        "readyInMinutes": 295,
+        "servings": 8,
+        "sourceUrl": "http://www.cookingclassy.com/2013/04/italian-beef-stew/",
+        "openLicense": 0,
+        "image": "italian-beef-stew-543872.jpg"
+    },
+    {
+        "id": 549302,
+        "title": "Arby’s Beef N Cheddar",
+        "readyInMinutes": 8,
+        "servings": 4,
+        "sourceUrl": "http://www.ohsweetbasil.com/2013/09/arbys-beef-n-cheddar-copycat-recipe.html",
+        "openLicense": 0,
+        "image": "Arbys-Beef-N-Cheddar-549302.jpg"
+    },
+    {
+        "id": 719865,
+        "title": "German Beef Rouladen",
+        "readyInMinutes": 55,
+        "servings": 8,
+        "sourceUrl": "http://allrecipes.com/recipe/149686/german-beef-rouladen/",
+        "openLicense": 0,
+        "image": "german-beef-rouladen-719865.jpg"
+    },
+    {
+        "id": 608877,
+        "title": "Corned Beef Nilaga",
+        "readyInMinutes": 25,
+        "servings": 4,
+        "sourceUrl": "http://www.kawalingpinoy.com/2014/08/corned-beef-nilaga/",
+        "openLicense": 0,
+        "image": "Corned-Beef-Nilaga-608877.jpg"
+    },
+    {
+        "id": 659285,
+        "title": "Satay Beef Balls",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.foodista.com/recipe/XYTZXPXK/satay-beef-balls",
+        "openLicense": 2,
+        "image": "Satay-Beef-Balls-659285.jpg"
+    },
+    {
+        "id": 667384,
+        "title": "Beef orzo skillet",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://www.sheknows.com/food-and-recipes/articles/1027283/beef-orzo-skillet-recipe",
+        "openLicense": 0,
+        "image": "Beef-orzo-skillet-667384.jpg"
+    },
+    {
+        "id": 693251,
+        "title": "Beef Puffy Tacos",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://www.howsweeteats.com/2015/12/puffy-tacos/",
+        "openLicense": 0,
+        "image": "beef-puffy-tacos-693251.jpg"
+    },
+    {
+        "id": 699367,
+        "title": "Beef and Bean Soup",
+        "readyInMinutes": 150,
+        "servings": 8,
+        "sourceUrl": "http://shewearsmanyhats.com/beef-bean-soup-recipe/",
+        "openLicense": 0,
+        "image": "beef-and-bean-soup-699367.jpg"
+    },
+    {
+        "id": 895554,
+        "title": "Beef Satay Meatballs",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "http://hilahcooking.com/beef-satay-meatballs/",
+        "openLicense": 0,
+        "image": "beef-satay-meatballs-895554.jpg"
+    },
+    {
+        "id": 940563,
+        "title": "Easy Beef and Broccoli",
+        "readyInMinutes": 35,
+        "servings": 4,
+        "sourceUrl": "https://eat-drink-love.com/easy-beef-broccoli/",
+        "openLicense": 0,
+        "image": "easy-beef-and-broccoli-940563.jpg"
+    },
+    {
+        "id": 968870,
+        "title": "Beef with Snow Peas",
+        "readyInMinutes": 16,
+        "servings": 8,
+        "sourceUrl": "http://www.foodnetwork.com/recipes/ree-drummond/beef-with-snow-peas-recipe-3381538",
+        "openLicense": 0
+    },
+    {
+        "id": 985616,
+        "title": "Corned Beef and Cabbage",
+        "readyInMinutes": 740,
+        "servings": 8,
+        "sourceUrl": "https://www.foodnetwork.com/recipes/tyler-florence/corned-beef-and-cabbage-recipe-1953631",
+        "openLicense": 0,
+        "image": "corned-beef-and-cabbage-985616.jpeg"
+    },
+    {
+        "id": 1034957,
+        "title": "Korean Beef Skewers",
+        "readyInMinutes": 48,
+        "servings": 4,
+        "sourceUrl": "https://www.simplyrecipes.com/recipes/korean_beef_skewers/",
+        "openLicense": 0,
+        "image": "korean-beef-skewers-1034957.jpg"
+    },
+    {
+        "id": 1070235,
+        "title": "Vegetable Beef Soup",
+        "readyInMinutes": 185,
+        "servings": 8,
+        "sourceUrl": "https://www.jocooks.com/recipes/vegetable-beef-soup/",
+        "openLicense": 0,
+        "image": "vegetable-beef-soup-1070235.jpg"
+    },
+    {
+        "id": 1090841,
+        "title": "Beef & bacon meatloaf",
+        "readyInMinutes": 50,
+        "servings": 4,
+        "sourceUrl": "https://www.bbcgoodfood.com/recipes/beef-bacon-meatloaf",
+        "openLicense": 0,
+        "image": "beef-bacon-meatloaf-1090841.jpg"
+    },
+    {
+        "id": 1147547,
+        "title": "Easy Beef Bourguignon",
+        "readyInMinutes": 185,
+        "servings": 6,
+        "sourceUrl": "https://www.simplyscratch.com/2019/11/beef-bourguignon.html",
+        "openLicense": 0,
+        "image": "easy-beef-bourguignon-1147547.jpg.jpg.jpg.jpg"
+    },
+    {
+        "id": 1526835,
+        "title": "Beef Barley Soup",
+        "readyInMinutes": 65,
+        "servings": 6,
+        "sourceUrl": "https://cincyshopper.com/beef-barley-soup/",
+        "openLicense": 0,
+        "image": "beef-barley-soup-1526835.jpg"
+    },
+    {
+        "id": 9015,
+        "title": "Summer Beef Salad with Cilantro",
+        "readyInMinutes": 20,
+        "servings": 4,
+        "sourceUrl": "http://www.myrecipes.com/recipe/summer-beef-salad-with-cilantro-10000000524356/",
+        "openLicense": 0,
+        "image": "summer-beef-salad-with-cilantro-9015.jpg"
+    },
+    {
+        "id": 11760,
+        "title": "Corned Beef and Cabbage Dinner",
+        "readyInMinutes": 45,
+        "servings": 8,
+        "sourceUrl": "http://www.myrecipes.com/recipe/corned-beef-cabbage-dinner-10000000581690/",
+        "openLicense": 0,
+        "image": "corned-beef-and-cabbage-dinner-11760.jpg"
+    },
+    {
+        "id": 29773,
+        "title": "Beef-Broccoli Stir-Fry",
+        "readyInMinutes": 20,
+        "servings": 4,
+        "sourceUrl": "http://www.myrecipes.com/recipe/beef-broccoli-stir-fry-50400000110403/",
+        "openLicense": 0,
+        "image": "beef-broccoli-stir-fry-29773.jpg"
+    },
+    {
+        "id": 36255,
+        "title": "Easy Shredded Beef Over Rice",
+        "readyInMinutes": 260,
+        "servings": 8,
+        "sourceUrl": "http://www.myrecipes.com/recipe/easy-shredded-beef-over-rice-10000001194641/",
+        "openLicense": 0,
+        "image": "easy-shredded-beef-over-rice-36255.jpg"
+    },
+    {
+        "id": 45910,
+        "title": "Dorie Greenspan's Go-To Beef Daube",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.seriouseats.com/recipes/2010/09/dorie-greenspans-go-to-beef-daube-stew-recipe.html",
+        "openLicense": 0,
+        "image": "cook_the_book_dorie_greenspans_go-to_beef_daube-45910.jpg"
+    },
+    {
+        "id": 71549,
+        "title": "Vegetable and Beef Pot Pie",
+        "readyInMinutes": 60,
+        "servings": 6,
+        "sourceUrl": "http://www.kraftrecipes.com/recipes/steak-vegetable-pot-pie-54073.aspx",
+        "openLicense": 0,
+        "image": "vegetable-and-beef-pot-pie-71549.jpg"
+    },
+    {
+        "id": 80181,
+        "title": "Ginger Beef Mini Skewers",
+        "readyInMinutes": 45,
+        "servings": 18,
+        "sourceUrl": "http://www.myrecipes.com/recipe/ginger-beef-mini-skewers-10000001194607/",
+        "openLicense": 0,
+        "image": "ginger-beef-mini-skewers-80181.jpg"
+    },
+    {
+        "id": 93344,
+        "title": "Easy Corned Beef and Cabbage",
+        "readyInMinutes": 40,
+        "servings": 8,
+        "sourceUrl": "http://www.food.com/recipe/easy-corned-beef-and-cabbage-336398",
+        "openLicense": 0,
+        "image": "easy-corned-beef-and-cabbage-2-93344.png"
+    },
+    {
+        "id": 144468,
+        "title": "Southwestern Roast Beef Wraps",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "sourceUrl": "http://www.myrecipes.com/recipe/southwestern-roast-beef-wraps-50400000114780/",
+        "openLicense": 0,
+        "image": "southwestern-roast-beef-wraps-144468.jpg"
+    }
+]
