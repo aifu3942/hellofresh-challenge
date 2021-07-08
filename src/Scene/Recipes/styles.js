@@ -13,6 +13,11 @@ const useStyles = makeStyles((theme) => ({
     height: "auto",
     width: "100%",
   },
+  bottom: {
+    backgroundColor: theme.palette.background.default,
+    width: "100%",
+    minHeight: "5rem",
+  },
 }));
 
 export default useStyles;
