@@ -72,7 +72,7 @@ function Recipes() {
                     <Typography variant="body1" color="textPrimary">
                       {recipe.title}
                     </Typography>
-                    <Rating name="read-only" value="5" readOnly />
+                    <Rating name="read-only" value={5} readOnly />
                   </CardContent>
                 </CardActionArea>
               </Card>
