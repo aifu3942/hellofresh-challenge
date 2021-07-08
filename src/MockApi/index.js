@@ -2,8 +2,6 @@ import axios from "axios";
 
 //recipe detail information
 export const DetailsInfo = async (id) => {
-  var axios = require("axios").default;
-
   var options = {
     method: "GET",
     url:
@@ -14,15 +12,19 @@ export const DetailsInfo = async (id) => {
     },
   };
 
-  axios
+  var result;
+
+  await axios
     .request(options)
     .then(function (response) {
       console.log(response.data);
-      return response.data;
+      result = response.data;
     })
     .catch(function (error) {
       console.error(error);
     });
+
+  return result;
 };
 
 export const FetchRecipes = async () => {

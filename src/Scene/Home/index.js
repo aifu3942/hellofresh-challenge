@@ -13,6 +13,7 @@ function Scene() {
       <div className={classes.body}>
         <HomePage />
       </div>
+      <div className={classes.bottom}></div>
     </div>
   );
 }
