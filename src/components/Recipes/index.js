@@ -1,8 +1,8 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import routes from "../../routes";
 import { useHistory } from "react-router-dom";
 import { FetchRecipes } from "../../MockApi";
-import rercipesData from "./recipesData.json";
+import recipesData from "./recipesData.json";
 import {
   GridList,
   GridListTile,
@@ -15,22 +15,24 @@ import {
 } from "@material-ui/core";
 import useStyles from "./styles";
 import { Rating, Pagination } from "@material-ui/lab";
-import RecipeDetails from "../RecipeDetails";
 
 function Recipes() {
   const classes = useStyles();
   const history = useHistory();
+  const [pageNum, setPageNum] = useState(1);
+  const [itemNum, setItemNum] = useState(6);
+  const handleChange = (event, value) => {
+    setPageNum(value);
+  };
   const baseUri = "https://spoonacular.com/recipeImages/";
 
   useEffect(() => {
-    async function getData() {
-      // FetchRecipes();
-    }
+    async function getData() {}
     getData();
   }, []);
 
   return (
-    <div>
+    <div className={classes.root}>
       <div id="Grid-intro" className={classes.intro}>
         <div>
           <Typography variant="h4" color="textPrimary">
@@ -51,37 +53,44 @@ function Recipes() {
 
       <div id="Grid-recipes">
         <GridList cellHeight="auto" cols={3}>
-          {rercipesData.map((recipe) => (
-            <GridListTile key={recipe.id}>
-              {/* <img src={baseUri + recipe.image} alt={recipe.title} /> */}
-              <Card className={classes.cards}>
-                <CardActionArea
-                  onClick={() => {
-                    history.push({
-                      pathname: `${routes.recipeDetails.url}`,
-                      state: { recipeId: `${recipe.id}` },
-                    });
-                  }}
-                >
-                  <CardMedia
-                    className={classes.media}
-                    image={baseUri + recipe.image}
-                    title={recipe.title}
-                  />
-                  <CardContent>
-                    <Typography variant="body1" color="textPrimary">
-                      {recipe.title}
-                    </Typography>
-                    <Rating name="read-only" value={5} readOnly />
-                  </CardContent>
-                </CardActionArea>
-              </Card>
-            </GridListTile>
-          ))}
+          {recipesData
+            .slice((pageNum - 1) * itemNum, pageNum * itemNum)
+            .map((recipe) => (
+              <GridListTile key={recipe.id}>
+                <Card className={classes.cards}>
+                  <CardActionArea
+                    onClick={() => {
+                      history.push({
+                        pathname: `${routes.recipeDetails.url}`,
+                        state: { recipeId: `${recipe.id}` },
+                      });
+                    }}
+                  >
+                    <CardMedia
+                      className={classes.media}
+                      image={baseUri + recipe.image}
+                      title={recipe.title}
+                    />
+                    <CardContent>
+                      <Typography variant="body1" color="textPrimary">
+                        {recipe.title}
+                      </Typography>
+                      <Rating name="read-only" value={5} readOnly />
+                    </CardContent>
+                  </CardActionArea>
+                </Card>
+              </GridListTile>
+            ))}
         </GridList>
       </div>
-      <div>
-        <Pagination count={10} color="primary" />
+      <div className={classes.page}>
+        <Pagination
+          count={parseInt(recipesData.length / itemNum + 1)}
+          defaultPage={pageNum}
+          color="primary"
+          onChange={handleChange}
+          size="large"
+        />
       </div>
     </div>
   );

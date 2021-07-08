@@ -1,6 +1,10 @@
 import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
+  root: {
+    display: "flex",
+    flexDirection: "column",
+  },
   intro: {
     height: "10rem",
     maxWidth: "40rem",
@@ -15,8 +19,12 @@ const useStyles = makeStyles((theme) => ({
   },
   media: {
     height: 0,
-    // paddingTop: "56.25%", // 16:9
-    paddingTop: "110%", // 16:9
+    paddingTop: "110%",
+  },
+  page: {
+    display: "flex",
+    justifyContent: "center",
+    marginBottom: theme.spacing(3),
   },
 }));
 
