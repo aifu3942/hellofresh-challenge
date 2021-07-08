@@ -14,7 +14,7 @@ function Scene() {
   const classes = useStyles();
   const location = useLocation();
   const [load, setLoad] = useState(true);
-  const [recipeId, setRecipeId] = useState(location.state.recipeId);
+  const recipeId = location.state.recipeId;
   const [details, setDetails] = useState();
 
   useEffect(() => {

@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import routes from "../../routes";
 import { useHistory } from "react-router-dom";
-import { FetchRecipes } from "../../MockApi";
 import recipesData from "./recipesData.json";
 import {
   GridList,
