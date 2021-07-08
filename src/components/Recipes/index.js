@@ -19,7 +19,7 @@ import RecipeDetails from "../RecipeDetails";
 
 function Recipes() {
   const classes = useStyles();
-  let history = useHistory();
+  const history = useHistory();
   const baseUri = "https://spoonacular.com/recipeImages/";
 
   useEffect(() => {
